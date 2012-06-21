@@ -1,4 +1,4 @@
-This repository is currently a placeholder.
+***This is work in progress. The code should work, but it's missing tests, documentation, and an example.***
 
 django-tornadio2
 ================
