@@ -3,7 +3,7 @@ This repository is currently a placeholder.
 django-tornadio2
 ================
 
-There currently doesn't exist and out-of-the-box app that gives Django the ability to communicate over WebSockets.
+There currently doesn't exist an out-of-the-box app that gives Django the ability to communicate over WebSockets.
 
 [TornadIO2](http://readthedocs.org/docs/tornadio2/en/latest/) is an implementation of the [socket.io](http://socket.io/) protocol on top of the [Torando](http://www.tornadoweb.org/) non-blocking web server. Since TornadIO2 and Tornado are written in python, integrating them with Django is almost straightforward.
 
